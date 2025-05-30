@@ -42,7 +42,7 @@ Currently working on personal projects and building a strong presence on **Fiver
 
 ### 🌐 Connect With Me
 
-- Fiverr: [fiverr.com/monjurul_hoque](https://www.fiverr.com/monjurul_hoque)
+- Fiverr: [fiverr.com/monjurul_hoque](https://www.fiverr.com/s/R7o22pV)
 - GitHub: [github.com/Monjurul-Hoque33](https://github.com/Monjurul-Hoque33)
 - Email: coming soon...
 
