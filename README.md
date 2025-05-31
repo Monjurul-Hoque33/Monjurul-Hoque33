@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Monjurul Hoque 👋</h1>
 
 <p align="center">
-  🌍 Front-End Web Developer | HTML • CSS • JavaScript<br>
-  🎯 Passionate about clean UI, user experience, and learning new things<br>
-  🗣️ Bengali & English Speaker | Available for freelance work on Fiverr
+  Front-End Web Developer | HTML • CSS • JavaScript<br>
+  Passionate about clean UI, user experience, and learning new things<br>
+  Bengali & English Speaker | Available for freelance work on Fiverr
 </p>
 
 ---
@@ -13,13 +13,13 @@
 I'm a self-taught front-end web developer focused on building beautiful and responsive websites.  
 Currently working on personal projects and building a strong presence on **Fiverr** and **GitHub**.
 
-- 🔭 I’m currently working on landing pages and mini UI components
-- 🌱 I’m learning advanced JavaScript and Figma design system
-- ⚡ Fun Fact: I never give up when things go tough!
+I’m currently working on landing pages and mini UI components
+I’m learning advanced JavaScript and Figma design system
+Fun Fact: I never give up when things go tough!
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -35,8 +35,8 @@ Currently working on personal projects and building a strong presence on **Fiver
 
 | Project | Description | Live |
 |--------|-------------|------|
-| 💐 [My Perfume](https://github.com/Monjurul-Hoque33/My-perfume) | A landing page design for a perfume shop | [Live Link 🌐](https://monjurul-hoque33.github.io/My-perfume/) |
-| 🛒 [Coming Soon] | More projects coming soon... | — |
+|  [My Perfume](https://github.com/Monjurul-Hoque33/My-perfume) | A landing page design for a perfume shop | [Live Link 🌐](https://monjurul-hoque33.github.io/My-perfume/) |
+|  [Coming Soon] | More projects coming soon... | — |
 
 ---
 
