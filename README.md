@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Monjurul Hoque 👋</h1>
+<h1 align="center">Hi there, I'm Monjurul Hoque</h1>
 
 <p align="center">
   Front-End Web Developer | HTML • CSS • JavaScript<br>
@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
 I'm a self-taught front-end web developer focused on building beautiful and responsive websites.  
 Currently working on personal projects and building a strong presence on **Fiverr** and **GitHub**.
@@ -19,7 +19,7 @@ Fun Fact: I never give up when things go tough!
 
 ---
 
-### Skills & Technologies
+## Skills & Technologies
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -31,7 +31,7 @@ Fun Fact: I never give up when things go tough!
 
 ---
 
-### 📂 My Featured Projects
+## My Featured Projects
 
 | Project | Description | Live |
 |--------|-------------|------|
@@ -40,7 +40,7 @@ Fun Fact: I never give up when things go tough!
 
 ---
 
-### 🌐 Connect With Me
+## Connect With Me
 
 - Fiverr: [fiverr.com/monjurul_hoque](https://www.fiverr.com/s/R7o22pV)
 - GitHub: [github.com/Monjurul-Hoque33](https://github.com/Monjurul-Hoque33)
@@ -48,4 +48,4 @@ Fun Fact: I never give up when things go tough!
 
 ---
 
-⭐️ *Thank you for visiting my profile! Don't forget to star my repositories if you like them.*
+ *Thank you for visiting my profile! Don't forget to star my repositories if you like them.*
