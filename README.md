@@ -34,7 +34,9 @@ Fun Fact: I never give up when things go tough!
 ## My Featured Projects
 
 | Project | Description | Live |
- [My Perfume](https://github.com/Monjurul-Hoque33/My-perfume) A landing page design for a perfume shop | [Live Link ](https://monjurul-hoque33.github.io/My-perfume/)
+
+
+(https://monjurul-hoque33.github.io/My-perfume/)
 
 
 Gaming home page](https://monjurul-hoque33.github.io/gaming-home-page/)
