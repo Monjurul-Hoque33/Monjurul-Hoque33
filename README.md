@@ -54,6 +54,7 @@ https://monjurul-hoque33.github.io/find-your-next-tour/
 ## Connect With Me
 
 - Fiverr: [fiverr.com/monjurul_hoque](https://www.fiverr.com/s/R7o22pV)
+-LinkedIn: https://www.linkedin.com/in/monjurul‑hoque‑95/
 - GitHub: [github.com/Monjurul-Hoque33](https://github.com/Monjurul-Hoque33)
 - Email: coming soon...
 
