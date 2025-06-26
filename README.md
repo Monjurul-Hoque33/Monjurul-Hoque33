@@ -39,7 +39,7 @@ Fun Fact: I never give up when things go tough!
 (https://monjurul-hoque33.github.io/My-perfume/)
 
 
-Gaming home page](https://monjurul-hoque33.github.io/gaming-home-page/)
+(https://monjurul-hoque33.github.io/gaming-home-page/)
 
 
 https://monjurul-hoque33.github.io/portfolio/
